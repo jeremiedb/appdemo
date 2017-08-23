@@ -6,7 +6,7 @@ Date: 2017-05-13
 Author: Jeroen Ooms
 Maintainer: Jeroen Ooms <jeroen@berkeley.edu>
 Description: This package is an example of an OpenCPU App. It demonstrates
-    basic functionality of the API and Javascript library.
+    basic functionality of the API and Javascript library. JDB test
 License: Apache2
 LazyData: true
 RoxygenNote: 6.0.1
